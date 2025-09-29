@@ -18,10 +18,10 @@ namespace ConsoleApp2
 
             if (a.Length > b.Length)
             {
-                Console.WriteLine("Строка А больше строки В.");
+                Console.WriteLine($"Строка А больше строки В на {a.Length - b.Length}");
             }
             else if (a.Length == b.Length) { Console.WriteLine("Обе строки одинаковой длины."); }
-            else Console.WriteLine("Строка B больше строки A.");
+            else Console.WriteLine($"Строка B больше строки A на {a.Length - b.Length}");
         }
 
         static void t2() 
