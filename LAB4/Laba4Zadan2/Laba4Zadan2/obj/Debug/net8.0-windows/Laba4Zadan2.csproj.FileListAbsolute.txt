@@ -1,0 +1,48 @@
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.exe
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.deps.json
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.runtimeconfig.json
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.dll
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.pdb
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.Form1.resources
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.AssemblyInfo.cs
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.dll
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\refint\Laba4Zadan2.dll
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.pdb
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.genruntimeconfig.cache
+C:\Users\User\Desktop\VSTU\2 Kyrs\C#\Laba4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\ref\Laba4Zadan2.dll
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.exe
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.deps.json
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.runtimeconfig.json
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.dll
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.pdb
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.Form1.resources
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.AssemblyInfo.cs
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.dll
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\refint\Laba4Zadan2.dll
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.pdb
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.genruntimeconfig.cache
+C:\Users\user\Desktop\lab4\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\ref\Laba4Zadan2.dll
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.exe
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.deps.json
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.dll
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\bin\Debug\net8.0-windows\Laba4Zadan2.pdb
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.Form1.resources
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.dll
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\refint\Laba4Zadan2.dll
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.pdb
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\Laba4Zadan2.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (4)\Laba4Zadan2\Laba4Zadan2\obj\Debug\net8.0-windows\ref\Laba4Zadan2.dll
