@@ -57,6 +57,7 @@ namespace WindowsFormsApp3
             {
                 outt.Clear();
                 path = Enter.Text;
+                Enter.Clear();
                 try
                 {
                     using (BinaryWriter writer = new BinaryWriter(File.Open(path, FileMode.Create)))
